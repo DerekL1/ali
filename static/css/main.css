@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+}
+
+body {
+    background-color: #D5D5FF;
+    height: 100%;
+}
+
+.main {
+    padding-left: 20px;
+}
+
+.header {
+    background-color: #9C9CFF;
+    padding: 20px;
+    padding-right: 30px;
+    text-align: right;
+}
+
+a {
+    padding: 5px;
+    color: #0F1B80;
+    font-size: 25px;
+}
+
+a:hover {
+    color: black;
+    text-shadow: 1px 0px 0px black;
+    
+}
